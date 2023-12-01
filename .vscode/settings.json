@@ -1,5 +1,13 @@
 {
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "testing.automaticallyOpenPeekView": "never",
   "cSpell.words": [
-    "vuelit"
+    "vuelit",
+    "vuejs"
   ]
 }
