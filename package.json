@@ -16,7 +16,7 @@
     "typescript": "~5.0.4",
     "vite": "^5.0.3",
     "vite-plugin-eslint": "^1.8.1",
-    "vuelit": "^0.0.1"
+    "vuelit": "^0.3.0"
   },
   "eslintConfig": {
     "extends": "@padcom/eslint-config-typescript"
